@@ -1,7 +1,7 @@
 // LeetCode problem no.29: Divide Two Integer
 import java.util.*;
 
-public class Q29xolution {
+public class Q29Solution {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int divident = sc.nextInt();
